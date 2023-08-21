@@ -1,0 +1,6 @@
+servers:
+  hosts:
+    DynamicWeb: 
+      ansible_host: 127.0.0.1
+      ansible_port: 2222
+      ansible_private_key_file: /home/altynbek/Otus-homeworks/dynamicweb-hw26/.vagrant/machines/DynamicWeb/virtualbox/private_key
